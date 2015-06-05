@@ -1,0 +1,24 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "My web site mariocaste.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mario502gt/mysite.git"
+  },
+  "keywords": [
+    "website",
+    "ghost",
+    "theme"
+  ],
+  "author": "mario502gt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mario502gt/mysite/issues"
+  },
+  "homepage": "https://github.com/mario502gt/mysite#readme"
+}
