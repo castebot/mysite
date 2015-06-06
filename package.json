@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/mario502gt/mysite/issues"
   },
-  "homepage": "https://github.com/mario502gt/mysite#readme"
+  "homepage": "https://github.com/mario502gt/mysite#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-livereload": "^3.8.0"
+  }
 }
